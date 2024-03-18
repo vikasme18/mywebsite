@@ -1,3 +1,3 @@
-# cv
+This is my personal website it is built on HTML,CSS.
 
-My personal website : https://vikasrx.github.io/personal-website/
+Link : https://vikasme18.github.io/personal-website/
